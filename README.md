@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Tutorials I loved / followed :
+1. https://github.com/kentcdodds/react-fundamentals
+
+
+
 <!--
 **aleguern/aleguern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
