@@ -2,6 +2,13 @@
 
 Tutorials I loved / followed :
 1. https://github.com/kentcdodds/react-fundamentals
+2. https://github.com/kentcdodds/react-hooks
+3. https://github.com/kentcdodds/advanced-react-hooks
+4. https://github.com/kentcdodds/advanced-react-patterns
+5. https://github.com/kentcdodds/react-performance
+6. https://github.com/kentcdodds/react-suspense
+7. https://github.com/kentcdodds/testing-react-apps
+8. https://github.com/topics/testingjavascript
 
 
 
